@@ -1,0 +1,4 @@
+[2021-12-25 15:09:17]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2021-12-25 15:09:17]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2021-12-25 16:08:06]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2021-12-25 16:08:06]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
